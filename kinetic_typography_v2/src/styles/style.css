@@ -1,0 +1,261 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Quicksand', Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
+  line-height: 1.75;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  font-size: 18px;
+}
+
+#app {
+  width: 1280px;
+  max-width: 90vw;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+h1, h2 {
+  font-weight: 700;
+  margin-bottom: 0.8em;
+}
+
+h1 {
+  font-size: 2.1rem;
+  margin-top: 0.2em;
+}
+
+h2 {
+  font-size: 1.45rem;
+}
+
+p, li, label, input, select {
+  font-family: 'Quicksand', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1.06em;
+}
+
+ul {
+  padding-left: 1.2em;
+  margin-top: 0.3em;
+  margin-bottom: 1.1em;
+}
+
+.screen-note {
+  font-size: 0.9em;
+  color: #aaa;
+  margin-top: 1em;
+}
+
+button {
+  background-color: #fff;
+  color: #000;
+  padding: 12px 28px;
+  font-size: 17px;
+  margin: 16px 12px 10px 0;
+  cursor: pointer;
+  border: none;
+  border-radius: 14px;
+  font-family: 'Quicksand', Arial, sans-serif;
+  font-weight: 600;
+  transition: background-color 0.3s ease, color 0.2s, transform 0.18s cubic-bezier(.33,1.56,.64,1);
+}
+
+button:hover {
+  background-color: #e0e0e0;
+  color: #111;
+  transform: scale(1.05);
+}
+
+.choiceBtn {
+  width: 100%;
+  text-align: center;
+  font-family: 'Kameron', serif;
+  font-size: 1.3em;
+  font-weight: 600;
+  margin: 0;
+}
+
+#stimulusContainer {
+  font-family: 'Kameron', serif;
+}
+
+input[type="text"] {
+  padding: 12px;
+  width: 85%;
+  font-size: 17px;
+  margin: 10px auto 20px auto;
+  border-radius: 8px;
+  border: none;
+  background: #181818;
+  color: #fff;
+  font-family: 'Quicksand', Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+label {
+  display: block;
+  margin: 8px 0;
+  cursor: pointer;
+  font-size: 1.04em;
+}
+
+#questionnaireForm {
+  text-align: left;
+  margin: 0 auto;
+  max-width: 600px;
+  padding-bottom: 1.4em;
+}
+
+#questionnaireForm p {
+  font-weight: 600;
+  margin-top: 24px;
+  margin-bottom: 6px;
+}
+
+#questionnaireForm label {
+  display: block;
+  margin: 7px 0 7px 0;
+  font-weight: normal;
+}
+
+.left-align,
+.left-align * {
+  text-align: left !important;
+}
+
+.left-align {
+  margin: 0 auto;
+  max-width: 700px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#questionnaireForm .question-block label {
+  margin: 4px 0 4px 0;
+}
+
+#questionnaireForm .question-block input[type="radio"] {
+  margin-right: 10px;
+  margin-bottom: 0px;
+}
+
+input[type="range"] {
+  width: 92%;
+  margin: 15px 0 20px 0;
+  accent-color: #43b6e5;
+  height: 3px;
+}
+
+@media (max-width: 600px) {
+  #app {
+    padding: 0.7em;
+    max-width: 99vw;
+  }
+  input[type="text"] {
+    width: 98%;
+  }
+}
+
+.instructions-page, .consent-page, .questionnaire-page {
+  text-align: left !important;
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 12px 18px 0 18px;
+  font-size: 1.09em;
+  line-height: 1.8;
+}
+
+/* ============================================================
+   v2.0 ADDITIONS: stimulus animation keyframes + preview grid
+   ============================================================ */
+
+/* Flicker animation: alternates opacity between 100% and 10% */
+@keyframes flickerAnim {
+  0% { opacity: 1; }
+  50% { opacity: 0.1; }
+  100% { opacity: 1; }
+}
+
+/* Arrow buttons (used on practice intro and launch screens) */
+.arrow-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 32px;
+  font-size: 1.05em;
+}
+.arrow-button .arrow-icon {
+  display: inline-block;
+  font-size: 1.3em;
+  line-height: 1;
+  transition: transform 0.18s cubic-bezier(.33,1.56,.64,1);
+}
+.arrow-button:hover .arrow-icon {
+  transform: translateX(6px);
+}
+
+/* Motion-preview grid in the questionnaire (best/worst questions) */
+.preview-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+  margin-top: 10px;
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+@media (min-width: 900px) {
+  .preview-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.preview-tile {
+  display: flex;
+  flex-direction: column;
+  background: #181818;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 10px 12px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.preview-tile:hover {
+  border-color: #6cf;
+  background: #1d1d1d;
+}
+
+.preview-tile input[type="radio"] {
+  margin-right: 8px;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+
+.preview-tile .preview-label {
+  display: inline-block;
+  font-weight: 600;
+  font-size: 0.95em;
+  margin-bottom: 8px;
+}
+
+.preview-tile .preview-stage {
+  position: relative;
+  width: 100%;
+  height: 80px;
+  background: #000;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+/* When a preview tile is selected, brighten its border */
+.preview-tile:has(input[type="radio"]:checked) {
+  border-color: #43b6e5;
+  background: #1f2a30;
+}
