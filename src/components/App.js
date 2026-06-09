@@ -131,13 +131,13 @@ function renderConsent() {
     <div class="left-align">
       <h1>Letter of Consent</h1>
       <p>
-        From the research group READSEARCH, led by Prof. Bessemans at PXL-MAD School
-        of Arts/University of Hasselt, we are currently conducting a study on how kinetic
+        From the research group READSEARCH, led by Prof. Dr. Ann Bessemans at PXL-MAD School
+        of Arts/University of Hasselt, we, Monica Hutama and Ann Bessemans, are currently conducting a study on how kinetic
         typography could influence word recognizability of myopic readers.
       </p>
       <p>
-        You are kindly invited to participate in this research. During the study, you will
-        be shown short sequences of pseudoword sentences, presented in different
+        You are kindly invited to participate in this research. During the study,  you will be shown short sequences of pseudowords 
+        (words that have no meaning but can be read), presented in different
         kinetic typography representations. You will then be asked to answer a question
         regarding the sentence. We will then ask you which typography representation you find
         to be the most comfortable to follow. Your participation is voluntary, and your responses
@@ -151,7 +151,7 @@ function renderConsent() {
       </p>
       <p>
         Best regards,<br>
-        Monica Hutama
+        Monica Hutama & Ann Bessemans
       </p>
       <p>
         We highly value the protection of everyone's privacy! The data we ask for prior to the
@@ -173,7 +173,7 @@ function renderInstructions() {
       <h1>General Instructions</h1>
       <p>
         During this experiment, you will view 11 short sequences, each lasting just a few seconds.
-        Each sequence will display a sentence composed of pseudowords (words that look and
+        Each sequence is composed of pseudowords (words that look and
         sound like real words but have no meaning). Your task is to focus on these words
         and try to identify each one as it appears.
       </p>
