@@ -16,12 +16,12 @@ export const PREVIEW_SENTENCE = "talvi murket fendor brastik celum vorpex ralvit
 // `motion` must match a key in MOTION_RENDERERS.
 export const MOTION_PREVIEW_OPTIONS = [
   { label: "Static",                              motion: "Static" },
-  { label: "Static RSVP",                         motion: "Static RSVP" },
-  { label: "Dynamic RSVP — Horizontal",           motion: "Dynamic RSVP Horizontal" },
-  { label: "Dynamic RSVP — Vertical",             motion: "Dynamic RSVP Vertical" },
+  { label: "Static Rapid Presentation",                         motion: "Static RSVP" },
+  { label: "Dynamic— Horizontal",           motion: "Dynamic RSVP Horizontal" },
+  { label: "Dynamic — Vertical",             motion: "Dynamic RSVP Vertical" },
   { label: "Flicker — Horizontal",                motion: "Flicker Horizontal" },
   { label: "Flicker — Vertical",                  motion: "Flicker Vertical" },
-  { label: "RSVP Flicker",                        motion: "RSVP Flicker" },
+  { label: "Rapid Presentation Flicker",                        motion: "RSVP Flicker" },
   { label: "Vibration — Horizontal",              motion: "Vibration Horizontal" },
   { label: "Vibration — Vertical",                motion: "Vibration Vertical" },
   { label: "Highlight — Horizontal",              motion: "Highlight Horizontal (redesigned)" },
