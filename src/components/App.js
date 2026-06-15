@@ -152,7 +152,7 @@ function renderConsent() {
       </p>
       <p>
         Best regards,<br>
-        Monica Hutama
+        Monica Hutama & Ann Bessemans
       </p>
       <p>
         We highly value the protection of everyone's privacy! The data we ask for prior to the
