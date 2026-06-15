@@ -115,7 +115,7 @@ export function renderQuestionnaire(log) {
     // ⚠ This URL must point at your v2.0 Google Apps Script Web App deployment.
     // After downloading this file you MUST replace the placeholder below with
     // your real deployment URL (the same one you used in the prior version).
-    const ENDPOINT_URL = 'hhttps://script.google.com/macros/s/AKfycbxERIiYw0op_ZRrvy_sgQCdVPh3xfxw5BDYCKK-2GptO2AJu5TJ9MUUtgR6Eu-GtYE3/exec';
+    const ENDPOINT_URL = 'https://script.google.com/macros/s/AKfycbxERIiYw0op_ZRrvy_sgQCdVPh3xfxw5BDYCKK-2GptO2AJu5TJ9MUUtgR6Eu-GtYE3/exec';
     try {
       await fetch(ENDPOINT_URL, {
         method: 'POST',
