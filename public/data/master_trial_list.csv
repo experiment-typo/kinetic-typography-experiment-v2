@@ -1,0 +1,133 @@
+Sub-framework,Group,Order,Trial #,Motion,Position,Length class,Target word,Foil 1,Foil 2,Foil 3,Carrier sentence
+Group A — Order 1,A,1,1,Vibration Horizontal,Shortest,Short,blet,blut,bzet,clem,proma snorvin torpline frumpalin blet muvel snibralfo
+Group A — Order 1,A,1,2,Flicker Vertical,Penultimate,Medium-Long,clorkif,clirkif,clorwif,klorkih,drenvolak raxon jorpi klemo grotame clorkif yelka
+Group A — Order 1,A,1,3,Vibration Vertical,Second,Medium-Long,frosken,fresken,fdosken,lroskes,snari frosken frem klendrip geb bap dozor
+Group A — Order 1,A,1,4,Highlight Vertical (redesigned),Longest,Long,stravoken,straviken,stnavoken,jtravokel,vupop vost stravoken besar tordum trampez lurin
+Group A — Order 1,A,1,5,Dynamic RSVP Vertical,Shortest,Short,fim,fom,fam,til,krazipond plomstrik narum fim klivnar kelan blufrad
+Group A — Order 1,A,1,6,Flicker Horizontal,Second,Medium-Long,blufint,blifint,blurint,vlufinz,fentag blufint vipt wem trompasel yul snurbit
+Group A — Order 1,A,1,7,RSVP Flicker,Longest,Long,blufentir,blefentir,blukentir,vlufentig,drip plog blivu blufentir dralek vad kivaner
+Group A — Order 1,A,1,8,Static RSVP,Penultimate,Medium-Long,zimols,zumols,zimovs,gimoll,tof fendo trun jix zop zimols rul
+Group A — Order 1,A,1,9,Dynamic RSVP Horizontal,Longest,Long,vrodaknel,vrodaknul,vrodabnel,frodaknem,trovi nux blufint torpe vrodaknel snel clorkif
+Group A — Order 1,A,1,10,Highlight Horizontal (redesigned),Penultimate,Medium-Long,pretak,pretek,pjetak,zretam,rals kosh kep voth sertu pretak gronvelka
+Group A — Order 1,A,1,11,Static,Second,Medium-Long,sparvon,sparven,spapvon,jparvol,zimols sparvon stravoken blet krun blufentir vrodaknel
+Group A — Order 2,A,2,1,Highlight Vertical (redesigned),Longest,Long,stravoken,straviken,stnavoken,jtravokel,trampez blufrad torpe fim stravoken yelka krun
+Group A — Order 2,A,2,2,Flicker Horizontal,Second,Medium-Long,blufint,blifint,blurint,vlufinz,muvel blufint kep rul proma sertu tof
+Group A — Order 2,A,2,3,Static RSVP,Penultimate,Medium-Long,zimols,zumols,zimovs,gimoll,rals vupop dozor snari voth zimols krazipond
+Group A — Order 2,A,2,4,RSVP Flicker,Longest,Long,blufentir,blefentir,blukentir,vlufentig,grotame snurbit blufentir trovi drip vipt snel
+Group A — Order 2,A,2,5,Vibration Vertical,Second,Medium-Long,frosken,fresken,fdosken,lroskes,blivu frosken kelan blet fentag jorpi vad
+Group A — Order 2,A,2,6,Dynamic RSVP Horizontal,Longest,Long,vrodaknel,vrodaknul,vrodabnel,frodaknem,yul tordum snorvin narum vrodaknel besar wem
+Group A — Order 2,A,2,7,Static,Second,Medium-Long,sparvon,sparven,spapvon,jparvol,jix sparvon fendo dralek klemo plomstrik snibralfo
+Group A — Order 2,A,2,8,Dynamic RSVP Vertical,Shortest,Short,frem,frim,fcem,pred,raxon drenvolak frem lurin kivaner torpline frumpalin
+Group A — Order 2,A,2,9,Flicker Vertical,Penultimate,Medium-Long,clorkif,clirkif,clorwif,klorkih,trompasel nux klivnar gronvelka zop clorkif geb
+Group A — Order 2,A,2,10,Vibration Horizontal,Shortest,Short,vost,vust,vebt,fesp,sparvon frosken muvel vost klendrip zimols clorkif
+Group A — Order 2,A,2,11,Highlight Horizontal (redesigned),Penultimate,Medium-Long,pretak,pretek,pjetak,zretam,bap plog trun kosh frosken pretak fim
+Group A — Order 3,A,3,1,Dynamic RSVP Vertical,Shortest,Short,rul,rel,ral,cuf,trampez besar frumpalin lurin rul grotame snibralfo
+Group A — Order 3,A,3,2,Static RSVP,Penultimate,Medium-Long,zimols,zumols,zimovs,gimoll,blufrad snari yul vost frem zimols snel
+Group A — Order 3,A,3,3,Highlight Vertical (redesigned),Longest,Long,stravoken,straviken,stnavoken,jtravokel,tof jix stravoken dralek fentag wem fim
+Group A — Order 3,A,3,4,Flicker Vertical,Penultimate,Medium-Long,clorkif,clirkif,clorwif,klorkih,trovi fendo bap zop snurbit clorkif sertu
+Group A — Order 3,A,3,5,Flicker Horizontal,Second,Medium-Long,blufint,blifint,blurint,vlufinz,kivaner blufint vad tordum gronvelka geb drenvolak
+Group A — Order 3,A,3,6,RSVP Flicker,Longest,Long,blufentir,blefentir,blukentir,vlufentig,snorvin narum klivnar blufentir krun nux kelan
+Group A — Order 3,A,3,7,Highlight Horizontal (redesigned),Penultimate,Medium-Long,pretak,pretek,pjetak,zretam,krazipond kep blivu dozor kosh pretak plomstrik
+Group A — Order 3,A,3,8,Vibration Vertical,Second,Medium-Long,frosken,fresken,fdosken,lroskes,raxon frosken vipt klemo voth torpe rals
+Group A — Order 3,A,3,9,Vibration Horizontal,Shortest,Short,drip,drap,dtip,jriv,blufentir jorpi drip trompasel yelka klendrip torpline
+Group A — Order 3,A,3,10,Dynamic RSVP Horizontal,Longest,Long,vrodaknel,vrodaknul,vrodabnel,frodaknem,blufint blet pretak vrodaknel trun proma vupop
+Group A — Order 3,A,3,11,Static,Second,Medium-Long,sparvon,sparven,spapvon,jparvol,pretak sparvon stravoken muvel plog frem vrodaknel
+Group B — Order 1,B,1,1,Vibration Horizontal,Second,Medium-Short,vupop,vupip,vuwop,gupoj,blufint vupop clorkif sparvon zimols rul frosken
+Group B — Order 1,B,1,2,Vibration Vertical,Penultimate,Medium-Short,fendo,findo,feddo,tendi,pretak snorvin stravoken vost blufentir fendo vrodaknel
+Group B — Order 1,B,1,3,Dynamic RSVP Vertical,Second,Medium-Short,kelan,kelin,kekan,delad,drenvolak kelan jorpi tof klivnar blet dralek
+Group B — Order 1,B,1,4,RSVP Flicker,Shortest,Short,drip,drap,dtip,jriv,trampez snurbit grotame snari drip yelka krazipond
+Group B — Order 1,B,1,5,Flicker Horizontal,Penultimate,Medium-Short,blivu,blavu,bkivu,flivi,nux sertu voth raxon bap blivu blufrad
+Group B — Order 1,B,1,6,Dynamic RSVP Horizontal,Shortest,Short,vipt,vopt,vint,dipb,trovi dozor gronvelka vipt snibralfo kivaner plomstrik
+Group B — Order 1,B,1,7,Flicker Vertical,Longest,Long,trompasel,trompasul,trowpasel,srompasej,besar tordum torpe trompasel snel kep fentag
+Group B — Order 1,B,1,8,Highlight Vertical (redesigned),Shortest,Short,geb,gib,gab,sem,vrodaknel frumpalin geb narum lurin sparvon frosken
+Group B — Order 1,B,1,9,Static RSVP,Longest,Long,klendrip,klindrip,klentrip,slendrir,pretak zop klendrip krun zimols frem trun
+Group B — Order 1,B,1,10,Static,Penultimate,Medium-Short,proma,prema,phoma,vromu,jix rals vad klemo plog proma yul
+Group B — Order 1,B,1,11,Highlight Horizontal (redesigned),Longest,Long,torpline,tirpline,tokpline,porplino,kosh muvel clorkif torpline fim wem blufint
+Group B — Order 2,B,2,1,Highlight Horizontal (redesigned),Longest,Long,torpline,tirpline,tokpline,porplino,sparvon snorvin geb drip torpline vipt rul
+Group B — Order 2,B,2,2,Highlight Vertical (redesigned),Shortest,Short,yul,yal,yil,sut,kivaner stravoken blufint torpe yul tordum blufentir
+Group B — Order 2,B,2,3,Flicker Vertical,Longest,Long,trompasel,trompasul,trowpasel,srompasej,vost clorkif trompasel snari vad zimols snel
+Group B — Order 2,B,2,4,RSVP Flicker,Shortest,Short,trun,tron,tdun,jrup,trampez frosken narum krazipond trun raxon snibralfo
+Group B — Order 2,B,2,5,Vibration Vertical,Penultimate,Medium-Short,fendo,findo,feddo,tendi,plog plomstrik zop klemo kosh fendo yelka
+Group B — Order 2,B,2,6,Dynamic RSVP Vertical,Second,Medium-Short,kelan,kelin,kekan,delad,jix kelan kep jorpi krun sertu lurin
+Group B — Order 2,B,2,7,Static,Penultimate,Medium-Short,proma,prema,phoma,vromu,snurbit blufrad rals grotame nux proma wem
+Group B — Order 2,B,2,8,Dynamic RSVP Horizontal,Shortest,Short,blet,blut,bzet,clem,trovi vrodaknel frumpalin blet gronvelka dralek drenvolak
+Group B — Order 2,B,2,9,Flicker Horizontal,Penultimate,Medium-Short,blivu,blavu,bkivu,flivi,besar dozor klivnar voth tof blivu frem
+Group B — Order 2,B,2,10,Vibration Horizontal,Second,Medium-Short,vupop,vupip,vuwop,gupoj,kelan vupop muvel pretak fentag bap fim
+Group B — Order 2,B,2,11,Static RSVP,Longest,Long,klendrip,klindrip,klentrip,slendrir,kivaner proma blivu klendrip sparvon drip fendo
+Group B — Order 3,B,3,1,RSVP Flicker,Shortest,Short,geb,gib,gab,sem,stravoken blufentir geb frosken fentag klivnar klemo
+Group B — Order 3,B,3,2,Highlight Horizontal (redesigned),Longest,Long,torpline,tirpline,tokpline,porplino,trun snorvin blet drip torpline vipt blufrad
+Group B — Order 3,B,3,3,Flicker Horizontal,Penultimate,Medium-Short,blivu,blavu,bkivu,flivi,yul rals rul pretak snurbit blivu snel
+Group B — Order 3,B,3,4,Highlight Vertical (redesigned),Shortest,Short,kosh,kesh,kovh,losd,trampez lurin drenvolak kosh blufint vrodaknel dralek
+Group B — Order 3,B,3,5,Flicker Vertical,Longest,Long,trompasel,trompasul,trowpasel,srompasej,frem grotame trovi trompasel clorkif narum jorpi
+Group B — Order 3,B,3,6,Dynamic RSVP Horizontal,Shortest,Short,vost,vust,vebt,fesp,snari gronvelka snibralfo vost krazipond dozor sparvon
+Group B — Order 3,B,3,7,Vibration Horizontal,Second,Medium-Short,vupop,vupip,vuwop,gupoj,zimols vupop zop krun wem voth vad
+Group B — Order 3,B,3,8,Static RSVP,Longest,Long,klendrip,klindrip,klentrip,slendrir,yelka tordum klendrip plog raxon besar kivaner
+Group B — Order 3,B,3,9,Vibration Vertical,Penultimate,Medium-Short,fendo,findo,feddo,tendi,sertu jix frumpalin fim nux fendo plomstrik
+Group B — Order 3,B,3,10,Dynamic RSVP Vertical,Second,Medium-Short,kelan,kelin,kekan,delad,kep kelan muvel torpe bap vupop tof
+Group B — Order 3,B,3,11,Static,Penultimate,Medium-Short,proma,prema,phoma,vromu,torpline vupop trompasel vost blivu proma klendrip
+Group C — Order 1,C,1,1,Vibration Horizontal,Penultimate,Medium-Long,snurbit,snurbet,scurbit,nnurbic,trompasel kelan torpline geb fendo snurbit klendrip
+Group C — Order 1,C,1,2,Static,Longest,Long,gronvelka,gronvilka,groncelka,lronvelke,frosken drip vipt gronvelka sparvon proma blet
+Group C — Order 1,C,1,3,Flicker Vertical,Shortest,Short,frem,frim,fcem,pred,stravoken blivu frem plomstrik blufentir vrodaknel vupop
+Group C — Order 1,C,1,4,RSVP Flicker,Second,Medium-Long,trampez,trampaz,tbampez,drampek,jorpi trampez rul clorkif kosh yelka yul
+Group C — Order 1,C,1,5,Vibration Vertical,Longest,Long,frumpalin,frumpilin,frumkalin,mrumpalis,nux pretak frumpalin klemo blufrad kep besar
+Group C — Order 1,C,1,6,Static RSVP,Shortest,Short,vost,vust,vebt,fesp,krazipond blufint vost lurin fentag drenvolak klivnar
+Group C — Order 1,C,1,7,Dynamic RSVP Horizontal,Second,Medium-Long,grotame,gritame,grotahe,zrotama,dralek grotame trovi fim tof snari jix
+Group C — Order 1,C,1,8,Dynamic RSVP Vertical,Penultimate,Medium-Long,kivaner,kivanur,kiganer,givanew,voth zop bap krun plog kivaner snel
+Group C — Order 1,C,1,9,Highlight Vertical (redesigned),Second,Medium-Long,tordum,tardum,torhum,lorduh,rals tordum raxon wem zimols sertu vad
+Group C — Order 1,C,1,10,Highlight Horizontal (redesigned),Shortest,Short,trun,tron,tdun,jrup,trompasel dozor torpe trun snorvin klendrip torpline
+Group C — Order 1,C,1,11,Flicker Horizontal,Longest,Long,snibralfo,snebralfo,snibrallo,bnibralfa,tordum snurbit narum geb snibralfo muvel fendo
+Group C — Order 2,C,2,1,Flicker Vertical,Shortest,Short,rul,rel,ral,cuf,trompasel proma kelan klendrip rul blufentir torpline
+Group C — Order 2,C,2,2,Highlight Vertical (redesigned),Second,Medium-Long,tordum,tardum,torhum,lorduh,kosh tordum frem trun vipt vost yul
+Group C — Order 2,C,2,3,Vibration Vertical,Longest,Long,frumpalin,frumpilin,frumkalin,mrumpalis,frosken blet frumpalin vupop fendo blivu snorvin
+Group C — Order 2,C,2,4,Static RSVP,Shortest,Short,drip,drap,dtip,jriv,raxon snari sparvon drip drenvolak vrodaknel stravoken
+Group C — Order 2,C,2,5,Vibration Horizontal,Penultimate,Medium-Long,snurbit,snurbet,scurbit,nnurbic,dozor snel kep blufrad pretak snurbit clorkif
+Group C — Order 2,C,2,6,Flicker Horizontal,Longest,Long,snibralfo,snebralfo,snibrallo,bnibralfa,voth zop snibralfo blufint trovi zimols krun
+Group C — Order 2,C,2,7,Highlight Horizontal (redesigned),Shortest,Short,geb,gib,gab,sem,frumpalin besar geb yelka plomstrik klivnar krazipond
+Group C — Order 2,C,2,8,Dynamic RSVP Horizontal,Second,Medium-Long,grotame,gritame,grotahe,zrotama,narum grotame sertu dralek rals torpe jorpi
+Group C — Order 2,C,2,9,Dynamic RSVP Vertical,Penultimate,Medium-Long,kivaner,kivanur,kiganer,givanew,tof fim vad lurin wem kivaner plog
+Group C — Order 2,C,2,10,RSVP Flicker,Second,Medium-Long,trampez,trampaz,tbampez,drampek,muvel trampez jix bap fentag nux klemo
+Group C — Order 2,C,2,11,Static,Longest,Long,gronvelka,gronvilka,groncelka,lronvelke,kelan grotame gronvelka proma rul trampez geb
+Group C — Order 3,C,3,1,Flicker Horizontal,Longest,Long,snibralfo,snebralfo,snibrallo,bnibralfa,geb vost snibralfo kelan drip frosken zimols
+Group C — Order 3,C,3,2,Static RSVP,Shortest,Short,trun,tron,tdun,jrup,torpline stravoken fendo trun proma klendrip trompasel
+Group C — Order 3,C,3,3,Dynamic RSVP Vertical,Penultimate,Medium-Long,kivaner,kivanur,kiganer,givanew,rul vupop blet frem blivu kivaner blufentir
+Group C — Order 3,C,3,4,Dynamic RSVP Horizontal,Second,Medium-Long,grotame,gritame,grotahe,zrotama,snari grotame kosh raxon voth dralek pretak
+Group C — Order 3,C,3,5,Static,Longest,Long,gronvelka,gronvilka,groncelka,lronvelke,nux sparvon narum gronvelka wem blufint torpe
+Group C — Order 3,C,3,6,Vibration Horizontal,Penultimate,Medium-Long,snurbit,snurbet,scurbit,nnurbic,besar jorpi lurin klemo krun snurbit kep
+Group C — Order 3,C,3,7,Flicker Vertical,Shortest,Short,vipt,vopt,vint,dipb,vrodaknel yelka vipt dozor blufrad snorvin klivnar
+Group C — Order 3,C,3,8,RSVP Flicker,Second,Medium-Long,trampez,trampaz,tbampez,drampek,krazipond trampez rals sertu jix trovi tof
+Group C — Order 3,C,3,9,Highlight Horizontal (redesigned),Shortest,Short,yul,yal,yil,sut,drenvolak clorkif snibralfo yul muvel fentag plomstrik
+Group C — Order 3,C,3,10,Highlight Vertical (redesigned),Second,Medium-Long,tordum,tardum,torhum,lorduh,vad tordum snel plog fim zop bap
+Group C — Order 3,C,3,11,Vibration Vertical,Longest,Long,frumpalin,frumpilin,frumkalin,mrumpalis,vost tordum grotame frumpalin yul trun drip
+Group D — Order 1,D,1,1,RSVP Flicker,Penultimate,Medium-Short,trovi,truvi,trowi,jrovu,frumpalin gronvelka trampez snurbit trun trovi kivaner
+Group D — Order 1,D,1,2,Static,Shortest,Short,kosh,kesh,kovh,losd,trompasel snibralfo blufentir vupop kosh grotame proma
+Group D — Order 1,D,1,3,Dynamic RSVP Horizontal,Penultimate,Medium-Short,raxon,raxen,roxon,haxoz,vipt geb blivu vost drip raxon blet
+Group D — Order 1,D,1,4,Vibration Vertical,Shortest,Short,rul,rel,ral,cuf,stravoken blufint klendrip rul torpline fendo kelan
+Group D — Order 1,D,1,5,Static RSVP,Second,Medium-Short,klemo,klimo,kledo,slemu,pretak klemo tordum snari drenvolak zimols frem
+Group D — Order 1,D,1,6,Flicker Horizontal,Shortest,Short,yul,yal,yil,sut,snorvin jorpi besar yul sparvon clorkif frosken
+Group D — Order 1,D,1,7,Dynamic RSVP Vertical,Longest,Long,krazipond,krazipend,krazizond,traziponk,dralek sertu voth krazipond tof blufrad lurin
+Group D — Order 1,D,1,8,Highlight Horizontal (redesigned),Second,Medium-Short,narum,nirum,nafum,farug,torpe narum rals fim fentag nux kep
+Group D — Order 1,D,1,9,Vibration Horizontal,Longest,Long,plomstrik,plumstrik,plomstzik,hlomstric,vad jix klivnar bap plomstrik trampez wem
+Group D — Order 1,D,1,10,Highlight Vertical (redesigned),Penultimate,Medium-Short,dozor,dozur,dofor,fozog,snel vrodaknel yelka zop plog dozor krun
+Group D — Order 1,D,1,11,Flicker Vertical,Second,Medium-Short,muvel,muval,mucel,suvep,trun muvel rul yul snurbit vipt gronvelka
+Group D — Order 2,D,2,1,Dynamic RSVP Horizontal,Penultimate,Medium-Short,raxon,raxen,roxon,haxoz,snibralfo kivaner frumpalin tordum vost raxon gronvelka
+Group D — Order 2,D,2,2,Dynamic RSVP Vertical,Longest,Long,krazipond,krazipend,krazizond,traziponk,fendo drip grotame trampez krazipond proma geb
+Group D — Order 2,D,2,3,Vibration Vertical,Shortest,Short,vipt,vopt,vint,dipb,blufentir stravoken snurbit torpline vipt blivu vupop
+Group D — Order 2,D,2,4,RSVP Flicker,Penultimate,Medium-Short,trovi,truvi,trowi,jrovu,blet yul trun frem kelan trovi trompasel
+Group D — Order 2,D,2,5,Flicker Horizontal,Shortest,Short,kosh,kesh,kovh,losd,lurin frosken drenvolak fentag kosh sparvon klendrip
+Group D — Order 2,D,2,6,Static RSVP,Second,Medium-Short,klemo,klimo,kledo,slemu,bap klemo rul jix blufrad nux vrodaknel
+Group D — Order 2,D,2,7,Highlight Vertical (redesigned),Penultimate,Medium-Short,dozor,dozur,dofor,fozog,blufint snorvin voth zimols pretak dozor dralek
+Group D — Order 2,D,2,8,Flicker Vertical,Second,Medium-Short,muvel,muval,mucel,suvep,vad muvel kep snel snari rals torpe
+Group D — Order 2,D,2,9,Static,Shortest,Short,fim,fom,fam,til,klivnar clorkif sertu snibralfo fim krazipond yelka
+Group D — Order 2,D,2,10,Highlight Horizontal (redesigned),Second,Medium-Short,narum,nirum,nafum,farug,zop narum krun besar tof wem jorpi
+Group D — Order 2,D,2,11,Vibration Horizontal,Longest,Long,plomstrik,plumstrik,plomstzik,hlomstric,kivaner raxon narum snurbit plomstrik kosh plog
+Group D — Order 3,D,3,1,Dynamic RSVP Horizontal,Penultimate,Medium-Short,raxon,raxen,roxon,haxoz,frumpalin vipt gronvelka kosh vost raxon snibralfo
+Group D — Order 3,D,3,2,Static,Shortest,Short,frem,frim,fcem,pred,vupop trampez kelan frem grotame blufentir trompasel
+Group D — Order 3,D,3,3,Static RSVP,Second,Medium-Short,klemo,klimo,kledo,slemu,klendrip klemo rul yul torpline tordum stravoken
+Group D — Order 3,D,3,4,Vibration Vertical,Shortest,Short,blet,blut,bzet,clem,kivaner drenvolak fendo blet clorkif proma vrodaknel
+Group D — Order 3,D,3,5,RSVP Flicker,Penultimate,Medium-Short,trovi,truvi,trowi,jrovu,blivu drip geb trun tof trovi pretak
+Group D — Order 3,D,3,6,Vibration Horizontal,Longest,Long,plomstrik,plumstrik,plomstzik,hlomstric,rals bap snorvin fentag plomstrik besar wem
+Group D — Order 3,D,3,7,Highlight Vertical (redesigned),Penultimate,Medium-Short,dozor,dozur,dofor,fozog,krun snari blufint snurbit torpe dozor zimols
+Group D — Order 3,D,3,8,Flicker Horizontal,Shortest,Short,fim,fom,fam,til,jorpi frosken fim sparvon dralek blufrad klivnar
+Group D — Order 3,D,3,9,Flicker Vertical,Second,Medium-Short,muvel,muval,mucel,suvep,kep muvel snel vad yelka zop lurin
+Group D — Order 3,D,3,10,Dynamic RSVP Vertical,Longest,Long,krazipond,krazipend,krazizond,traziponk,voth nux plog krazipond kivaner sertu tordum
+Group D — Order 3,D,3,11,Highlight Horizontal (redesigned),Second,Medium-Short,narum,nirum,nafum,farug,dozor narum plomstrik jix klemo krazipond trovi
