@@ -131,17 +131,18 @@ function renderConsent() {
     <div class="left-align">
       <h1>Letter of Consent</h1>
       <p>
-        From the research group READSEARCH, led by Prof. Bessemans at PXL-MAD School
-        of Arts/University of Hasselt, we are currently conducting a study on how kinetic
-        typography could influence word recognizability of myopic readers.
+        From the research group READSEARCH, led by Prof. Dr. Bessemans at PXL-MAD School
+        of Arts/University of Hasselt, we, Monica Hutama and Ann Bessemans, are currently 
+        conducting a study on how kinetic typography could influence word recognizability 
+        of myopic readers.
       </p>
       <p>
         You are kindly invited to participate in this research. During the study, you will
-        be shown short sequences of pseudoword sentences, presented in different
-        kinetic typography representations. You will then be asked to answer a question
-        regarding the sentence. We will then ask you which typography representation you find
-        to be the most comfortable to follow. Your participation is voluntary, and your responses
-        will be treated confidentially and anonymously.
+        be shown short sequences of pseudoword (words that have no meaning but can be read), 
+        presented in different kinetic typography representations. You will then be asked to 
+        answer a question regarding the sentence. We will then ask you which typography 
+        representation you find to be the most comfortable to follow. Your participation is 
+        voluntary, and your responses will be treated confidentially and anonymously.
       </p>
       <p>
         Completing the reading and questions will take approximately 8-12 minutes. You may stop
@@ -157,7 +158,7 @@ function renderConsent() {
         We highly value the protection of everyone's privacy! The data we ask for prior to the
         test are not contact details and are included in the database for analytical purposes only.
         If you change your mind at a later time, you can always leave your personal details
-        (ann.bessemans@uhasselt.be, monica.hutama@student.pxl.be) to change your decision.
+        (ann.bessemans@uhasselt.be, monica.hutama@uhasselt.be) to change your decision.
         I hereby confirm that I am aware of the content of the study and grant permission to be part of the research.
       </p>
       <button id="agreeBtn">I Agree</button>
@@ -173,7 +174,7 @@ function renderInstructions() {
       <h1>General Instructions</h1>
       <p>
         During this experiment, you will view 11 short sequences, each lasting just a few seconds.
-        Each sequence will display a sentence composed of pseudowords (words that look and
+        Each sequence will be composed of pseudowords (words that look and
         sound like real words but have no meaning). Your task is to focus on these words
         and try to identify each one as it appears.
       </p>
